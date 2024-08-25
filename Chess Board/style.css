@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px 300px;
+    
+}
+td{
+    width:100px;
+    height:100px;
+    padding: 10px;
+
+}
+img{
+    width:80px;
+    height:80px; 
+}
+
+table{
+    border:30px solid yellow;
+    
+}
+.a1>td:nth-child(odd){
+    background-color: grey;
+}
+.a2>td:nth-child(even){
+    background-color: grey;
+}
+.a3>td:nth-child(odd){
+    background-color: grey;
+}
+.a4>td:nth-child(even){
+    background-color: grey;
+}
+.a5>td:nth-child(odd){
+    background-color: grey;
+}
+.a6>td:nth-child(even){
+    background-color: grey;
+}
+.a7>td:nth-child(odd){
+    background-color: grey;
+}
+.a8>td:nth-child(even){
+    background-color: grey;
+}
+
+.a1>td:nth-child(even){
+    background-color: white;
+}
+.a2>td:nth-child(odd){
+    background-color: white;
+}
+.a3>td:nth-child(even){
+    background-color: white;
+}
+.a4>td:nth-child(odd){
+    background-color: white;
+}
+.a5>td:nth-child(even){
+    background-color: white;
+}
+.a6>td:nth-child(odd){
+    background-color: white;
+}
+.a7>td:nth-child(even){
+    background-color: white;
+}
+.a8>td:nth-child(odd){
+    background-color: white;
+}
